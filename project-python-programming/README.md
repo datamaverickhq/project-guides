@@ -1,3 +1,3 @@
-# Project: Data Analysis in Python
+# Project: Python Programming
 
 Files for Python Programming project.
